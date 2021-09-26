@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+.DS_Store
+.idea/
+raw_data/
+models/
+data/
+keras-video-classification/
+
 # C extensions
 *.so
 
